@@ -1,7 +1,7 @@
-linuxMintBattery
+ubuntuBattery
 ================
 
-A simple low battery notifier for Linux Mint (Might work with other linux distros)
+A simple low battery notifier for Linux Ubuntu and its derivatives  (Might work with other linux distros)
 For use it you will need acpi: sudo apt-get install acpi
 You might need to install other repositories (for python).
 To Run:
